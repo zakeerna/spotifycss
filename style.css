@@ -166,13 +166,13 @@ margin-bottom: 30px;
     border-radius: 15px 15px 0 0;
 }
 .car1{
-    background-image: url('./download.jpg');
+    background-image: url('./image/download\ \(1\).jpg');
 }
 .car2{
-    background-image: url('./download\ \(1\).jpg');
+    background-image: url('./image/download\ \(1\).jpg');
 }
 .car3{
-    background-image: url('./download\ \(2\).jpg');
+    background-image: url('./image/download\ \(1\).jpg');
 }
 *{
     padding: 0;
@@ -186,7 +186,7 @@ footer{
 }
 .about{
     flex-grow: 1;flex-basis: 100%;
-.
+
 }
 .footer-p{
     font: size -1px;
